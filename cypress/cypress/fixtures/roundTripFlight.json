@@ -1,0 +1,10 @@
+{
+  "originPoint": "İzmir",
+  "destinationPoint": "İstanbul",
+  "departureDate": 5,
+  "isReturn": true,
+  "returnDate": 10,
+  "isDirect": false,
+  "departureAirline": "AnadoluJet",
+  "returnAirline": "Pegasus"
+}

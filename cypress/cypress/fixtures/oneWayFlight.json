@@ -1,0 +1,9 @@
+{
+  "originPoint": "Van",
+  "destinationPoint": "Dalaman",
+  "departureDate": 5,
+  "isReturn": false,
+  "returnDate": 10,
+  "isDirect": false,
+  "departureAirline": "AnadoluJet"
+}
